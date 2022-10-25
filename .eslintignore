@@ -1,0 +1,9 @@
+node_modules
+lib
+bin
+*.json
+*.md
+*.config
+**/.*.js
+dist
+es
